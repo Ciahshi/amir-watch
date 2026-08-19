@@ -1,5 +1,4 @@
-// این دو مقدار را از Supabase Project Settings > API بردارید.
 window.AMIR_WATCH_CONFIG = {
-  SUPABASE_URL: "https://YOUR-PROJECT.supabase.co",
-  SUPABASE_ANON_KEY: "YOUR_SUPABASE_ANON_KEY"
+    SUPABASE_URL: "https://yzbyybvremgcjmvxhedi.supabase.co",
+    SUPABASE_ANON_KEY: "sb_publishable_zXdGHMCvNhU9RWn6r8-EEg_mX3QtShG"
 };
